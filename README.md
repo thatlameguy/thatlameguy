@@ -5,7 +5,7 @@
 ║ My areas of interest are, Web Development, Cloud, CAD and  ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
 ║ basically every other thing out there. I love working with ║ ┃   ┗━━ ⭐ PHP, Laravel
 ║ various tools and learning new things.                     ║ ┣━━ ☁ AWS, GCP 
-║ You know what?, Let me cook! hahaha,                       ║ ┣━━ 🏗 AutoCAD
+║ You know what?, Let me cook! hehe, Woops I mean Code*      ║ ┣━━ 🏗 AutoCAD
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🐧 Linux 
   
   
