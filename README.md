@@ -1,12 +1,14 @@
 ```plaintext
-😎 Abhi Kumar  
-  ┣━━ 💻 App/Web development
-  ┃   ┣━━ ⭐ JS/TS, React, Next, Node
-  ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
-  ┃   ┗━━ ⭐ PHP, Laravel
-  ┣━━ ☁ AWS, GCP 
-  ┣━━ 🏗 AutoCAD
-  ┗━━ 🐧 Linux
+╔════════════════════════ Hey There! ════════════════════════╗ 😎 Abhi Kumar
+║ I'm a CS Student, pursuing BCA.                            ║ ┣━━ 💻 App/Web development
+║                                                            ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node
+║ My areas of interest are, Web Development, Cloud, CAD and  ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
+║ basically every other thing out there. I love working with ║ ┃   ┗━━ ⭐ PHP, Laravel
+║ various tools and learning new things.                     ║ ┣━━ ☁ AWS, GCP 
+║ You know what?, Let me cook! hahaha,                       ║ ┣━━ 🏗 AutoCAD
+╚════════════════════════════════════════════════════════════╝ ┗━━ 🐧 Linux 
+  
+  
 ```
 
 ### Languages and tools I know and have worked with
