@@ -8,7 +8,6 @@
   ┣━━ 🏗 AutoCAD
   ┗━━ 🐧 Linux
 ```
-____![1719543242377](image/README/1719543242377.png)![1719543246056](image/README/1719543246056.png)
 
 ### Languages and tools I know and have worked with
 
