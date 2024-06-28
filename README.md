@@ -7,8 +7,6 @@
 ║ various tools and learning new things.                     ║ ┣━━ ☁ AWS, GCP 
 ║ You know what?, Let me cook! hehe, Woops I mean Code*      ║ ┣━━ 🏗 AutoCAD
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🐧 Linux 
-  
-  
 ```
 
 ### Languages and tools I know and have worked with
