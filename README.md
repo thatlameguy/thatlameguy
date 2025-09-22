@@ -1,6 +1,6 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗ Stuff I'm interested in and continously learning:- 
-║ I'm Abhi, a CS Student, pursuing BCA.                      ║ ┣━━ 💻 App/Web development
+║ I'm Abhi, a CS Student, BCA graduate.                      ║ ┣━━ 💻 App/Web development
 ║                                                            ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node
 ║ My areas of interest are, Web Development, Cloud, CAD and  ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
 ║ basically every other thing out there. I love working with ║ ┃   ┗━━ ⭐ PHP, Laravel
