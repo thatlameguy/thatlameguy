@@ -53,7 +53,8 @@
 <!--   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0d1017?style=for-the-badge&logo=Markdown&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> -->
-  
+
+[![An image of @thatlameguy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thatlameguy)](https://holopin.io/@thatlameguy)
 
 <!---
 thatlameguy/thatlameguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
